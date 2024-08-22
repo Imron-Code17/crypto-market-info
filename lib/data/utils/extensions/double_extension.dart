@@ -1,0 +1,2 @@
+
+extension NumExt on num {}
